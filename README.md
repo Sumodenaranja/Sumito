@@ -3,8 +3,8 @@ This is the repository where I will organize and link all of my projects, catego
 
 ## Python
 ### Easy Projects
-####   · Sending notifications to my phone trough python [PhoneNotifications](https://github.com/Sumodenaranja/PhoneNotifications)
-  This is a very simple project that helped me learn how to use APIs.
+#### &emsp; · Sending notifications to my phone trough python [PhoneNotifications](https://github.com/Sumodenaranja/PhoneNotifications)
+  &emsp; &nbsp; This is a very simple project that helped me learn how to use APIs.
 ### Medium Projects
 
 ### Hard Projects
