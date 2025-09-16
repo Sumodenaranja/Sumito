@@ -1,18 +1,29 @@
 # Project Repository
 This is the repository where I will organize and link all of my projects, categorized by the programming languages I used for each.
 
-## Python
+## Python Applications
 ### Easy Projects
 #### &emsp; · Sending notifications to my phone trough python [PhoneNotifications](https://github.com/Sumodenaranja/PhoneNotifications)
   &emsp; &nbsp; This is a very simple project that helped me learn how to use APIs.
 ### Medium Projects
 
 ### Hard Projects
-## Java
 
-## Android Studio
+## Python Data Analisis
 ### Easy Projects
 
-### Medium projects
+### Medium Projects
 
 ### Hard Projects
+
+
+## Python Machine Learning
+### Easy Projects
+
+### Medium Projects
+
+### Hard Projects
+
+
+## Java
+
